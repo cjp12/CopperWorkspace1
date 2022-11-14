@@ -72,23 +72,3 @@ if __name__== '__main__':
     print(households_by_city_df)
 
 
-
-    
-
-
-
-    
-
-    
-
-
-
-
-
-
-
-
-
-    #interpret_local_files()
-
-    #housing_by_city_df = request_census_data(censusAPI)
